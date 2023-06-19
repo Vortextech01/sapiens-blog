@@ -11,10 +11,10 @@ exports.COLOR_THEMES = {
   bejamas: {
     colors: {
       primary: '#00BFFF',
-      'gradient-1': 'url("https://github.com/Vortextech01/astro/blob/main/examples/portfolio/public/assets/BE6180FE-7FAF-4F55-A97C-D985D3A5B047.jpeg?raw=true")', // replace with your own image URL
-      'gradient-2': '#1C1C1C',
-      'gradient-3': '#9400D3',
-      'gradient-4': '#FFFFFF',
+      'gradient-1': 'url("https://github.com/Vortextech01/astro/blob/main/examples/portfolio/public/assets/BE6180FE-7FAF-4F55-A97C-D985D3A5B047.jpeg?raw=true")', 
+      'gradient-2': 'url("https://github.com/Vortextech01/astro/blob/main/examples/portfolio/public/assets/BE6180FE-7FAF-4F55-A97C-D985D3A5B047.jpeg?raw=true")',
+      'gradient-3': 'url("https://github.com/Vortextech01/astro/blob/main/examples/portfolio/public/assets/BE6180FE-7FAF-4F55-A97C-D985D3A5B047.jpeg?raw=true")',
+      'gradient-4': 'url("https://github.com/Vortextech01/astro/blob/main/examples/portfolio/public/assets/BE6180FE-7FAF-4F55-A97C-D985D3A5B047.jpeg?raw=true")',
     },
   },
   netlify: {
