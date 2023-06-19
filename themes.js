@@ -10,11 +10,11 @@ exports.COLOR_THEMES = {
   },
   bejamas: {
     colors: {
-      primary: '#FF69B4',
-      'gradient-1': '#000000',
-      'gradient-2': '#1C1C1C',
-      'gradient-3': '#FF1493',
-      'gradient-4': '#9400D3',
+      primary: '#00BFFF', // bright blue
+      'gradient-1': '#1C1C1C', // dark gray
+      'gradient-2': '#000000', // black
+      'gradient-3': '#9400D3', // purple
+      'gradient-4': '#FFFFFF', // white
     },
   },
   netlify: {
