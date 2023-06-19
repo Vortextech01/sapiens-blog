@@ -10,11 +10,11 @@ exports.COLOR_THEMES = {
   },
   bejamas: {
     colors: {
-      primary: '#00BFFF', // bright blue
-      'gradient-1': '#1C1C1C', // dark gray
-      'gradient-2': '#000000', // black
-      'gradient-3': '#9400D3', // purple
-      'gradient-4': '#FFFFFF', // white
+      primary: '#00BFFF',
+      'gradient-1': 'url("https://github.com/Vortextech01/astro/blob/main/examples/portfolio/public/assets/BE6180FE-7FAF-4F55-A97C-D985D3A5B047.jpeg?raw=true")', // replace with your own image URL
+      'gradient-2': '#1C1C1C',
+      'gradient-3': '#9400D3',
+      'gradient-4': '#FFFFFF',
     },
   },
   netlify: {
