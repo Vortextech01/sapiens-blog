@@ -1,50 +1,54 @@
 exports.COLOR_THEMES = {
   default: {
     colors: {
-      primary: '#00BFFF',
-      'gradient-1': '#000000',
-      'gradient-2': '#1C1C1C',
-      'gradient-3': '#4B0082',
-      'gradient-4': '#9400D3',
+      primary: '#00FFB8',
+      'gradient-1': '#1a1a1a',
+      'gradient-2': '#00FFB8',
+      'gradient-3': '#1a1a1a',
+      'gradient-4': '#00FFB8',
     },
   },
   bejamas: {
     colors: {
-      primary: '#00BFFF',
-      'gradient-1': 'url("https://github.com/Vortextech01/astro/blob/main/examples/portfolio/public/assets/BE6180FE-7FAF-4F55-A97C-D985D3A5B047.jpeg?raw=true")', 
-      'gradient-2': 'url("https://github.com/Vortextech01/astro/blob/main/examples/portfolio/public/assets/BE6180FE-7FAF-4F55-A97C-D985D3A5B047.jpeg?raw=true")',
-      'gradient-3': 'url("https://github.com/Vortextech01/astro/blob/main/examples/portfolio/public/assets/BE6180FE-7FAF-4F55-A97C-D985D3A5B047.jpeg?raw=true")',
-      'gradient-4': 'url("https://github.com/Vortextech01/astro/blob/main/examples/portfolio/public/assets/BE6180FE-7FAF-4F55-A97C-D985D3A5B047.jpeg?raw=true")',
+      primary: '#2B2D42',
+      'gradient-1': '#1a1a1a',
+      'gradient-2': '#2B2D42',
+      'gradient-3': '#1a1a1a',
+      'gradient-4': '#2B2D42',
+      secondary: '#8D99AE',
+      tertiary: '#EF233C',
+      accent: '#FFD3BA',
     },
   },
   netlify: {
     colors: {
-      primary: '#00FF7F',
-      'gradient-1': '#000000',
-      'gradient-2': '#1C1C1C',
-      'gradient-3': '#00FF7F',
-      'gradient-4': '#9400D3',
+      primary: '#00FFB8',
+      'gradient-1': '#1a1a1a',
+      'gradient-2': '#00FFB8',
+      'gradient-3': '#1a1a1a',
+      'gradient-4': '#00FFB8',
     },
   },
   reddie: {
     colors: {
-      primary: '#FF1493',
-      'gradient-1': '#000000',
-      'gradient-2': '#1C1C1C',
-      'gradient-3': '#FF69B4',
-      'gradient-4': '#9400D3',
+      primary: '#FF4D4D',
+      'gradient-1': '#1a1a1a',
+      'gradient-2': '#FF4D4D',
+      'gradient-3': '#1a1a1a',
+      'gradient-4': '#FF4D4D',
     },
   },
   greenie: {
     colors: {
-      primary: '#00FF7F',
-      'gradient-1': '#000000',
-      'gradient-2': '#1C1C1C',
-      'gradient-3': '#00FF7F',
-      'gradient-4': '#9400D3',
+      primary: '#C78500',
+      'gradient-1': '#1a1a1a',
+      'gradient-2': '#C78500',
+      'gradient-3': '#1a1a1a',
+      'gradient-4': '#C78500',
     },
   },
 };
+
 
 exports.FONT_THEMES = {
   'sans-serif': 'ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"',
